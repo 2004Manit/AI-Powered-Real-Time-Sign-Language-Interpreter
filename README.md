@@ -13,23 +13,35 @@ Designed to **assist individuals with speech or hearing disabilities**, enabling
 
 ---
 
-## 🎥 Demo
-👉 **[Watch Full Demo Video](https://youtu.be/lBeAlBZhJzk)** 
-
-### Live Output Screenshots:
-| Gesture Detection | Live Speech Output | Training Graphs |
-|------------------|-------------------|-----------------|
-| ![Detection](images/Screenshot2025-08-07021813.png) | ![Speech](images/demo2.png) | ![Graphs](images/graph.png) |
+##  Demo
+ **[Watch Full Demo Video](https://youtu.be/lBeAlBZhJzk)** 
 
 ---
 
+
+### Live Output Screenshots:
+
+
+<img src="images/1.png" width="600"/>
+<br>
+
+<img src="images/3.png" width="600"/>
+
+---
+
+##  Dataset Summary Table:
+   
+  <img src="images/2.png" width="600"/>
+
+  ---
+
 ##  Features & Achievements
-- ✅ **Real-Time Detection:** Powered by **YOLOv5 v7.0** for fast and accurate gesture recognition.  
-- ✅ **High Accuracy:** Achieved **99.2% mAP@50** across 23 distinct hand gestures.  
-- ✅ **Live TTS Output:** Converts detected gestures into **instant spoken audio** via `pyttsx3`.  
-- ✅ **Robust Dataset:** Custom dataset of **1800+ images**, enhanced using **Roboflow** for better class balance.  
-- ✅ **Optimized Training:** Trained on **CUDA-enabled GPUs**, ensuring high-speed inference and scalability.  
-- ✅ **Accessibility-Focused:** Aimed at **empowering speech and hearing-impaired communities** through AI.
+-  **Real-Time Detection:** Powered by **YOLOv5 v7.0** for fast and accurate gesture recognition.  
+-  **High Accuracy:** Achieved **99.2% mAP@50** across 23 distinct hand gestures.  
+-  **Live TTS Output:** Converts detected gestures into **instant spoken audio** via `pyttsx3`.  
+-  **Robust Dataset:** Custom dataset of **1800+ images**, enhanced using **Roboflow** for better class balance.  
+-  **Optimized Training:** Trained on **CUDA-enabled GPUs**, ensuring high-speed inference and scalability.  
+-  **Accessibility-Focused:** Aimed at **empowering speech and hearing-impaired communities** through AI.
 
 ---
 
@@ -58,14 +70,23 @@ Designed to **assist individuals with speech or hearing disabilities**, enabling
 - **Performance:** `mAP@50 = 99.2%`
 
 ---
+## Training Graphs: 
 
+ ### Training Metrics Graph 
+ 
+<img src="images/4.png" width="600"/> 
+<br>
+
+### Per-Class Detection Performance
+<img src="images/5.png" width="600"/> 
+
+
+---
 ##  Results
-![Training Graph](images/graph.png)
 
 - **Precision:** 98.7%  
 - **Recall:** 99.0%  
 - **mAP@50:** 99.2%  
-- **mAP@50–95:** 94.8%
 
 ---
 
