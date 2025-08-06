@@ -19,7 +19,7 @@ Designed to **assist individuals with speech or hearing disabilities**, enabling
 ### Live Output Screenshots:
 | Gesture Detection | Live Speech Output | Training Graphs |
 |------------------|-------------------|-----------------|
-| ![Detection](https://drive.google.com/file/d/1WapVq4swe7LiTKSNF4kCevru8kMMPOhu/view?usp=sharing) | ![Speech](images/demo2.png) | ![Graphs](images/graph.png) |
+| ![Detection](images/Screenshot2025-08-07021813.png) | ![Speech](images/demo2.png) | ![Graphs](images/graph.png) |
 
 ---
 
