@@ -66,7 +66,7 @@ Designed to **assist individuals with speech or hearing disabilities**, enabling
 - **Images:** 1800+ labeled gesture images  
 - **Classes:** 23 distinct sign language gestures  
 - **Augmentations:** Applied via Roboflow to handle class imbalance  
-- **Training Epochs:** 150  
+- **Training Epochs:** 200  
 - **Performance:** `mAP@50 = 99.2%`
 
 ---
